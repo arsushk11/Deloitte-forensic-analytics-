@@ -28,4 +28,15 @@ This simulation involved two real-world forensic analytics tasks:
 - Down Time per Device Type
 - Down Time per Factory
 
-**Key Fin
+**Key Findings:**
+- Analyzed device failure patterns across 4 global factories
+- Identified highest-downtime device types to support predictive maintenance
+- Connected semi-structured JSON data directly into Tableau
+
+---
+
+## 📊 Task 2 — Workforce Equality Analysis
+
+**Goal:** Classify gender pay equality scores for each job role across all factories.
+
+**Formula Used:**
