@@ -40,3 +40,30 @@ This simulation involved two real-world forensic analytics tasks:
 **Goal:** Classify gender pay equality scores for each job role across all factories.
 
 **Formula Used:**
+=IF(ABS(C2)<=10, "Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative"))
+**Factories Analyzed:**
+- Daikibo Factory Meiyo
+- Daikibo Factory Seiko
+- Daikibo Berlin
+- Daikibo Shenzhen
+
+**Job Roles Covered:** C-Level, VP, Director, Sr. Manager, Manager, Jr. Manager, Sr. Engineer, Engineer, Jr. Engineer, Operational Support, Machine Operator
+
+**Key Finding:** C-Level and VP positions showed "Highly Discriminative" pay gaps across multiple factories.
+
+---
+
+## 📁 Files in This Repository
+| File | Description |
+|------|-------------|
+| `Telementry_Data.twb` | Tableau workbook — device downtime analysis |
+| `Task_5_Equality_Table.xlsx` | Excel — equality score classification |
+## 🏆 Certificate
+Issued by **Deloitte** via Forage — April 2026
+Enrolment Code: d8yJ74NzhYXK35BvG
+
+---
+
+## 👤 Author
+**Arsalan Shaikh** — Aspiring Data Analyst
+📧 arsalanazmi121@gmail.com
